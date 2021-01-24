@@ -51,7 +51,7 @@ namespace Kampintro
             Console.WriteLine("-----------------");
 
             int canavarHasar = 15;
-            int benimCan = 15;
+            int benimCan = 20;
 
             if (canavarHasar >= benimCan)
             {
